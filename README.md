@@ -8,5 +8,5 @@ Feel free to reach out to me via LinkedIn or by email!
 
 ## Github Stats
 
-<!--[![Github stats](https://github-readme-stats.vercel.app/api?username=mrandrewhuang&show_icons=true&include_all_commits=true)](https://github.com/mrandrewhuang/github-readme-stats)-->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mrandrewhuang&show_icons=true&include_all_commits=true)](https://github.com/mrandrewhuang/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrandrewhuang&layout=compact)](https://github.com/mrandrewhuang/github-readme-stats)
